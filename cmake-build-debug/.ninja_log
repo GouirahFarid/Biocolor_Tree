@@ -1,0 +1,5 @@
+# ninja log v6
+48	252	7539024129738882	CMakeFiles/rb_avl_trees.dir/src/avltree.c.obj	72b1f3eb8c426e4d
+38	226	7539024129639680	CMakeFiles/rb_avl_trees.dir/src/rbtree.c.obj	e5c4be71d9baa7ad
+55	258	7539024129808836	CMakeFiles/rb_avl_trees.dir/src/main.c.obj	1997fcc674483fb3
+258	430	7539024131840136	rb_avl_trees.exe	83b5bdeee362f7bd
